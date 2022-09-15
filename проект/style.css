@@ -1,0 +1,14 @@
+body {
+  color: red;
+  background-color: white;
+  border: 4px double black;
+  font-style: bold
+};
+
+.header {
+  width: 70%;
+  
+};
+a {
+  text-decoration: none;
+};
